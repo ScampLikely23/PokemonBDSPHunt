@@ -25,3 +25,22 @@ I will be creating a more detailed guide on this part specifically, but you will
 You may also need to adjust the RGB values, currently it is set to Registeel's grey color, the code tells you what RGB value it checked, so you should be able to use the output from the code to verify it's RGB value.
 
 Please let me know if you have any issues or questions. This is my first public project and I will attempt to keep this as updated and informative as possible
+
+PS The Regi Macro is
+
+HOME 0.2S
+2S
+Y 0.3S
+1.8S
+A 0.3S
+2.8S
+A 0.3S
+25.5S
+A 0.3S
+7S
+A 0.3S
+16S
+A 0.3S
+1.8S
+A 0.3S
+0.4S
